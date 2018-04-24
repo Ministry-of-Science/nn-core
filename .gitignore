@@ -1,0 +1,17 @@
+# Garbage
+.DS_Store
+Thumbs.db
+
+
+
+# Folders
+.sass-cache
+-documents-
+node_modules
+
+
+
+# Files
+*.css.map
+*.lock
+package-lock.json
