@@ -1,15 +1,15 @@
 [submodule "nn-emotion"]
 	path = nn-emotion
-	url = https://git.inc.sh/NetNavi/nn-emotion
+	url = https://code.webb.page/NetNavi/nn-emotion
 [submodule "nn-hearing"]
 	path = nn-hearing
-	url = https://git.inc.sh/NetNavi/nn-hearing
+	url = https://code.webb.page/NetNavi/nn-hearing
 [submodule "nn-sight"]
 	path = nn-sight
-	url = https://git.inc.sh/NetNavi/nn-sight
+	url = https://code.webb.page/NetNavi/nn-sight
 [submodule "nn-speech"]
 	path = nn-speech
-	url = https://git.inc.sh/NetNavi/nn-speech
+	url = https://code.webb.page/NetNavi/nn-speech
 [submodule "nn-thought"]
 	path = nn-thought
-	url = https://git.inc.sh/NetNavi/nn-thought
+	url = https://code.webb.page/NetNavi/nn-thought

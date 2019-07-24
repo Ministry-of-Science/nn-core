@@ -1,5 +1,5 @@
 # NetNavi Core
-[![PWS](https://img.shields.io/badge/PWS-SciLab/NetNavi--Core-07d0eb.svg?style=flat-square)](https://paulwebb.software/SciLab/NetNavi-Core)
+[![Badge](https://img.shields.io/badge/WebbHub-NetNavi/nn--core-07d0eb.svg?style=flat-square)](https://code.webb.page/NetNavi/nn-core)
 
 With this collection of modules, it should be relatively easy to create your own NetNavi.
 

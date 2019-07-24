@@ -1,9 +1,4 @@
 {
-  "name": "netnavi-core",
-  "description": "InterNet Navigator",
-  "private": true,
-  "version": "1.0.0",
-  "main": "n.js",
   "dependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
@@ -15,13 +10,18 @@
     "is-admin": "^2.1.1",
     "mongoose": "^4.12.0"
   },
+  "description": "InterNet Navigator",
   "devDependencies": {
     "nodemon": "^1.12.1"
   },
+  "main": "n.js",
+  "name": "netnavi-core",
+  "private": true,
   "scripts": {
     "mongo": "mongod --config /usr/local/etc/mongod.conf",
     "sass": "sass --watch system/sass:gui/css --style compressed",
     "start": "sudo nodemon n.js --exec babel-node --presets es2015,stage-2",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "version": "2019.07.24"
 }
